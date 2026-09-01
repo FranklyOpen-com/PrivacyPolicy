@@ -4,7 +4,7 @@
 
 **The short version: our games collect nothing, send nothing, and contain nothing to buy.**
 
-FranklyOpen ([franklyopen.com](https://franklyopen.com)) makes free games for kids and families. This policy covers **every game we publish** — on Google Play, the Apple App Store, and any other distribution — including *Cannonball Cove*. All of our games are built to the same rules, so there is no personal data to worry about in any of them:
+FranklyOpen ([franklyopen.com](https://franklyopen.com)) makes free games for kids and families, published on the app stores under the developer name **Good Steward**. This policy covers **every game we publish** — on Google Play, the Apple App Store, and any other distribution — including *Cannonball Cove*. All of our games are built to the same rules, so there is no personal data to worry about in any of them:
 
 - **No data is collected.** Our games gather no personal information, no usage analytics, no identifiers, no diagnostics — nothing, from anyone, of any age.
 - **No data leaves the device.** Our games make no network connections at all. There are no accounts, no cloud saves, no telemetry, and no third-party SDKs (no ads SDKs, no analytics SDKs).
