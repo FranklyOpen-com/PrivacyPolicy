@@ -17,10 +17,10 @@ FranklyOpen ([franklyopen.com](https://franklyopen.com)) makes free games for ki
 
 Our games are designed for children, and the strongest protection we can offer is structural: because they collect no data and make no network connections, no personal information from children (or anyone else) is ever gathered, stored off-device, shared, or sold. This by construction satisfies the requirements of COPPA, GDPR (including its rules for children), and the family policies of Google Play and the Apple App Store. There is nothing to share with third parties, nothing to delete on request, and nothing that could be used to contact, track, or profile a child.
 
-If a future game ever needs to behave differently in any way, it will ship with its own policy, published on this site and linked from that game's store listing before release — this shared policy only ever covers games it is fully true for.
+If a particular game ever works differently, it will have its own policy, linked from that game's store listing.
 
 ## Contact
 
 Questions about this policy are welcome: open an issue on this repository, or reach the developer through [franklyopen.com](https://franklyopen.com).
 
-*Last updated: 2026-08-31. If any game's behavior ever changes, this policy will be updated before any such release.*
+*Last updated: 2026-08-31. Any changes to this policy will be posted on this page, with the date above revised.*
